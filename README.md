@@ -17,5 +17,5 @@
 12:30🕧/13:00🕧  | сделать слияние веток
 
 
-
+#3 РАЗА ПЕРЕДЕЛЫВАЛА
 ![image](https://github.com/user-attachments/assets/70a76249-f690-4763-b627-2075f88a515b)
